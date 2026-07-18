@@ -38,19 +38,17 @@ erDiagram
 ### 2. Operaciones CRUD (Postman/Bruno)
 A continuación, se presentan las pruebas de los endpoints:
 
-*   **Crear Producto (POST):**
-    ![alt text](image.png)
+* **Crear Producto (POST):** 
+![Captura de POST](image-1.png)
 
-    ![alt text](image-1.png)
-    
-*   **Leer Productos (GET):**
-    ![alt text](image-2.png)
+* **Leer Productos (GET):** 
+![Captura de GET](image-2.png)
 
-*   **Actualizar Producto (PUT):**
-    ![alt text](image-3.png)
+* **Actualizar Producto (PUT):** 
+![Captura de PUT](image-3.png)
 
-*   **Eliminar Producto (DELETE):**
-    ![alt text](image-4.png)
+* **Eliminar Producto (DELETE):** 
+![Captura de DELETE](image-4.png)
 
 ##  Utilizado en esta Actividad:
 *   Java 25+
