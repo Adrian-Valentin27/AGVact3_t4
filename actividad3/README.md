@@ -39,16 +39,16 @@ erDiagram
 A continuación, se presentan las pruebas de los endpoints:
 
 * **Crear Producto (POST):** 
-![Captura de POST](image-1.png)
+![Captura de POST](actividad3/image-1.png)
 
 * **Leer Productos (GET):** 
-![Captura de GET](image-2.png)
+![Captura de GET](actividad3/image-2.png)
 
 * **Actualizar Producto (PUT):** 
-![Captura de PUT](image-3.png)
+![Captura de PUT](actividad3/image-3.png)
 
 * **Eliminar Producto (DELETE):** 
-![Captura de DELETE](image-4.png)
+![Captura de DELETE](actividad3/image-4.png)
 
 ##  Utilizado en esta Actividad:
 *   Java 25+
