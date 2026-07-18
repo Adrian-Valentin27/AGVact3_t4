@@ -19,4 +19,8 @@ public class CategoriaService {
     public Categoria guardar(Categoria categoria) {
         return categoriaRepository.save(categoria);
     }
+
+    public void eliminar(Long id) {
+        categoriaRepository.deleteById(id);
+    }
 }
